@@ -1,2 +1,2 @@
 ### Overview
-Accelerators for working with ChatGPT in Databricks.
+Accelerators, such as example notebooks and plugins, for working with ChatGPT in Databricks.
