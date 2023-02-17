@@ -1,5 +1,7 @@
 # chatGPT-resources
 
+## A Quick Overview
+Blueprint held a lunch and learn session giving an overview of ChatGPT, some interesting uses of ChatGPT, and an overview of the data science behind ChatGPT. The presentation deck is available on [SlideShare](https://www.slideshare.net/gnakan/blueprint-chatgpt-lunch-learn).
 
 ## Other Links
 - [Awesome ChatGPT](https://github.com/eon01/awesome-chatgpt), a curated list of awesome tools, demos, docs for ChatGPT and GPT-3
